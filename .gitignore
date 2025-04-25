@@ -1,61 +1,61 @@
-!/bitrix
-/bitrix/*
-/bitrix/cache
-/bitrix/managed_cache
-!/bitrix/admin/
-/bitrix/admin/*
-!/bitrix/admin/reports/
+# Кэш Битрикс
+/bitrix/cache/
+/bitrix/managed_cache/
+/bitrix/stack_cache/
+/bitrix/tmp/
+/bitrix/html_pages/
 
-!/bitrix/components/
-/bitrix/components/bitrix/
+# Логи и временные файлы
+/bitrix/php_interface/after_connect.php
+/bitrix/php_interface/dbconn.php
+/bitrix/php_interface/license_key.php
+/bitrix/php_interface/sitemap_settings.php
+/bitrix/.settings.php
+/bitrix/.settings_extra.php
 
-!/bitrix/php_interface/
-/bitrix/php_interface/dbconn.ph*
-/bitrix/php_interface/after_connect*
-/bitrix/php_interface/logs/
-
-!/bitrix/templates/
-
+# Файлы и папки, которые генерирует сервер
 /upload/
+/upload_tmp/
+/upload_backup/
+/backup/
+/bitrix/backup/
+/local/php_interface/dbconn.php
+local/.settings.php
+local/.settings_extra.php
 
-/cgi-bin/
-/awstats/
-/webstat/
+# Конфигурация IDE, ОС и снапшоты
+.idea
+*.sublime-*
+*.swp
+*.bak
+*.tmp
 .DS_Store
-.Spotlight-V100
-.Trashes
 Thumbs.db
-ehthumbs.db
 
-*.xml
-*.html
-*.txt
+# composer
+/vendor/
+/composer.lock
+
+# node/npm/yarn
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# Кэш apc/opcache
+/apc_cache
+/opcache
+
+# Другие конфиги, которые не нужны в репозитории
+.env
+.env.*
+*.iml
 *.log
-*.css.map
-*.zip
-*.zip*
-*.tar
-*.tar*
-*.enc
-*.enc*
-*.gz
-*.gz*
-*.tgz
-*.tgz*
-*.sql
-*.rar
-.hg
-.ftpconfig
-*.doc
-*.docx
-*.pdf
-*.rtf
-*.xls
-*.xlsx
-*.ppt
-*.pptx
-*.psd
-*.psb
-*.sketch
-core.*
-!/robots.txt
+
+# Базы локальных/тестовых окружений
+*.sqlite
+*.mdf
+*.ldf
+
+# Служебные файлы для deploy
+deploy.sh
+deploy-*.sh
