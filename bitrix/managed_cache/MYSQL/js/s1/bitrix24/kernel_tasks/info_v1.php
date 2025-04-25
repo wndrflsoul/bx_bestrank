@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/js/tasks/cjstask.js" => "174556408111059","/bitrix/js/tasks/core_planner_handler.js" => "174556408112749","/bitrix/js/tasks/task-iframe-popup.js" => "174556408117646","/bitrix/js/tasks/util.js" => "17455640818406","/bitrix/js/tasks/tasks.js" => "17455640814746",]; ?>
