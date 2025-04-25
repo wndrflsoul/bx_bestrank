@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/symfony": "^6.4",
+        "monolog/monolog": "^3.9"
+    }
+}
