@@ -1,6 +1,7 @@
 {
     "require": {
         "symfony/symfony": "^6.4",
-        "monolog/monolog": "^3.9"
+        "monolog/monolog": "^3.9",
+        "codex-team/hawk.php": "^1.1"
     }
 }
