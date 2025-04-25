@@ -1,1 +1,0 @@
-<?php $filesInfo = ["/bitrix/components/bitrix/main.interface.buttons/templates/.default/style.css" => "174556396730794","/bitrix/components/bitrix/crm.config.perms.relation/templates/.default/style.css" => "17455639982360",]; ?>

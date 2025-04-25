@@ -1,7 +1,0 @@
-<?
-if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001745564259';
-$dateexpire = '001745567859';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:6:{i:0;a:7:{s:2:"ID";s:2:"18";s:4:"NAME";s:15:"calendar_denied";s:6:"LETTER";s:1:"D";s:9:"MODULE_ID";s:8:"calendar";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:16:"calendar_section";}i:1;a:7:{s:2:"ID";s:2:"19";s:4:"NAME";s:18:"calendar_view_time";s:6:"LETTER";s:1:"O";s:9:"MODULE_ID";s:8:"calendar";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:16:"calendar_section";}i:2;a:7:{s:2:"ID";s:2:"20";s:4:"NAME";s:19:"calendar_view_title";s:6:"LETTER";s:1:"P";s:9:"MODULE_ID";s:8:"calendar";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:16:"calendar_section";}i:3;a:7:{s:2:"ID";s:2:"21";s:4:"NAME";s:13:"calendar_view";s:6:"LETTER";s:1:"R";s:9:"MODULE_ID";s:8:"calendar";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:16:"calendar_section";}i:4;a:7:{s:2:"ID";s:2:"22";s:4:"NAME";s:13:"calendar_edit";s:6:"LETTER";s:1:"W";s:9:"MODULE_ID";s:8:"calendar";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:16:"calendar_section";}i:5;a:7:{s:2:"ID";s:2:"23";s:4:"NAME";s:15:"calendar_access";s:6:"LETTER";s:1:"X";s:9:"MODULE_ID";s:8:"calendar";s:3:"SYS";s:1:"Y";s:11:"DESCRIPTION";N;s:7:"BINDING";s:16:"calendar_section";}}}';
-return true;
-?>

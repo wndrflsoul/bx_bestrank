@@ -1,1 +1,0 @@
-<?php $filesInfo = ["/bitrix/js/intranet/theme_picker/theme_picker.js" => "174556403128131",]; ?>

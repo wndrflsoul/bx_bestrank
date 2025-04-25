@@ -1,7 +1,0 @@
-<?
-if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001745564259';
-$dateexpire = '001748156259';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{s:8:"arResult";a:1:{i:0;a:31:{s:2:"ID";s:1:"4";s:4:"NAME";s:15:"T4GBRTGR tgrtgr";s:6:"XML_ID";s:32:"9321320debc2a2594682dc2691949c64";s:11:"EXTERNAL_ID";N;s:16:"GAPI_CALENDAR_ID";N;s:6:"ACTIVE";s:1:"Y";s:11:"DESCRIPTION";s:65:"Календарь был создан автоматически";s:5:"COLOR";s:7:"#9DCF00";s:10:"TEXT_COLOR";N;s:6:"EXPORT";a:2:{s:5:"ALLOW";b:1;s:4:"LINK";s:123:"&type=user&owner=1&ncc=1&user=1&sec_id=4&sign=2da79c92e607dcb1c01e6e94462ca5b5&bx_hit_hash=6bdtKVED0RAZ1qUIv4g7btG5rDadjSI0";}s:4:"SORT";s:3:"100";s:8:"CAL_TYPE";s:4:"user";s:8:"OWNER_ID";s:1:"1";s:10:"CREATED_BY";s:1:"1";s:9:"PARENT_ID";N;s:11:"DATE_CREATE";s:19:"25.04.2025 13:56:00";s:11:"TIMESTAMP_X";s:19:"25.04.2025 13:55:57";s:12:"DAV_EXCH_CAL";N;s:12:"DAV_EXCH_MOD";N;s:11:"CAL_DAV_CON";N;s:11:"CAL_DAV_CAL";N;s:11:"CAL_DAV_MOD";N;s:11:"IS_EXCHANGE";b:0;s:10:"SYNC_TOKEN";N;s:10:"PAGE_TOKEN";N;s:13:"EXTERNAL_TYPE";s:5:"local";s:9:"TYPE_NAME";s:45:"Календари пользователей";s:9:"TYPE_DESC";s:0:"";s:6:"ACCESS";a:1:{s:2:"G2";i:19;}s:10:"OUTLOOK_JS";s:10:"needAction";s:9:"IS_COLLAB";b:0;}}s:12:"arSectionIds";a:1:{i:0;i:4;}s:11:"permissions";a:1:{i:4;a:2:{s:2:"G2";i:19;s:2:"U1";i:23;}}}}';
-return true;
-?>

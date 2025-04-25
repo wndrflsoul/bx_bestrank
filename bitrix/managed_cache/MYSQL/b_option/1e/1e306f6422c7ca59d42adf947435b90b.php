@@ -1,7 +1,0 @@
-<?
-if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001745564224';
-$dateexpire = '001745567824';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:1:"-";a:30:{s:16:"1C_DETAIL_HEIGHT";s:3:"300";s:16:"1C_DETAIL_RESIZE";s:1:"N";s:15:"1C_DETAIL_WIDTH";s:3:"300";s:17:"1C_ELEMENT_ACTION";s:1:"D";s:18:"1C_FILE_SIZE_LIMIT";s:6:"204800";s:15:"1C_FORCE_OFFERS";s:1:"N";s:19:"1C_GENERATE_PREVIEW";s:1:"N";s:20:"1C_GROUP_PERMISSIONS";s:0:"";s:14:"1C_IBLOCK_TYPE";s:19:"CRM_PRODUCT_CATALOG";s:11:"1C_INTERVAL";s:2:"30";s:17:"1C_PREVIEW_HEIGHT";s:3:"100";s:16:"1C_PREVIEW_WIDTH";s:3:"100";s:17:"1C_SECTION_ACTION";s:1:"D";s:12:"1C_SITE_LIST";s:2:"s1";s:20:"1C_SKIP_ROOT_SECTION";s:1:"N";s:18:"1C_TRANSLIT_ON_ADD";s:1:"N";s:21:"1C_TRANSLIT_ON_UPDATE";s:1:"N";s:10:"1C_USE_CRC";s:1:"Y";s:30:"1C_USE_IBLOCK_PICTURE_SETTINGS";s:1:"N";s:21:"1C_USE_IBLOCK_TYPE_ID";s:1:"N";s:13:"1C_USE_OFFERS";s:1:"N";s:10:"1C_USE_ZIP";s:1:"Y";s:21:"1CE_ELEMENTS_PER_STEP";s:3:"100";s:21:"1CE_GROUP_PERMISSIONS";s:0:"";s:13:"1CE_IBLOCK_ID";s:2:"14";s:12:"1CE_INTERVAL";s:2:"30";s:11:"1CE_USE_ZIP";s:1:"Y";s:20:"default_can_buy_zero";s:1:"Y";s:26:"save_product_without_price";s:1:"Y";s:25:"subscribe_repeated_notify";s:1:"Y";}}}';
-return true;
-?>
